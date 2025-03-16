@@ -21,4 +21,4 @@
 ![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white) 	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dulobodev&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dulobodev&show_icons=true&theme=transparent)
