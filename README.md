@@ -118,15 +118,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="44" alt="linkedin logo" />
   </a>
   <img width="12" />
-  <a href="https://github.com/dulobodev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="44" alt="github logo" />
+  <a href="mailto:duduclobo20@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dulobodev.dulobodev&left_text=visitantes"  />
-</div>
 
 ###
