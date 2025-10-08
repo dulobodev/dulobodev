@@ -1,24 +1,104 @@
- # **Iteração constante, evolução infinita!**
- ㅤ
-## Seja bem-vindo me chamo Eduardo  👋
+<h1 align="center">Iteração constante, evolução infinita!</h1>
 
-### **Redes:**
+###
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-lobo-dev)
+<h2 align="center">Seja bem-vindo me chamo Eduardo 👋</h2>
 
-ㅤ
-### **Frontend**
-[![JavaScript](https://img.shields.io/badge/javascript-06254b?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]() ![HTML5](https://img.shields.io/badge/html5-06254b?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-06254b?style=for-the-badge&logo=css3&logoColor=white)
-ㅤ
-### **Backend**
-[![Python](https://img.shields.io/badge/python-06254b?style=for-the-badge&logo=python&logoColor=ffdd54)]() ![Poetry](https://img.shields.io/badge/Poetry-06254b?style=for-the-badge&logo=poetry&logoColor=FFFFFF) [![FastAPI](https://img.shields.io/badge/FastAPI-06254b?style=for-the-badge&logo=fastapi&logoColor=FFFFFF)]() [![Flask](https://img.shields.io/badge/flask-06254b?style=for-the-badge&logo=flask&logoColor=white)]() ![Qt](https://img.shields.io/badge/Qt-06254b?style=for-the-badge&logo=Qt&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-06254b?style=for-the-badge&logo=mysql&logoColor=white)
-ㅤ
-### **Test**
-![Pytest](https://img.shields.io/badge/pytest-06254b?style=for-the-badge&logo=pytest) ![Postman](https://img.shields.io/badge/Postman-06254b?style=for-the-badge&logo=postman&logoColor=fd7e0d)
+###
 
-ㅤ
-### **Dev Tools**
-![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white) 	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<br clear="both">
 
+<p align="left">💻 Atualmente estudo Desenvolvimento de Sistemas e me aprofundo em Python, com foco em automação, APIs seguras e arquitetura backend. Também tenho interesse em cibersegurança, infraestrutura de servidores, hardware e otimização de software.<br><br>🚀 Meu objetivo é me tornar um programador completo, com domínio técnico e visão ampla — capaz de construir sistemas escaláveis, seguros e inovadores. Gosto de entender como tudo funciona por dentro, desde o hardware até a lógica de alto nível.</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dulobodev&layout=compact&langs_count=5&theme=tokyonight)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dulobodev&show_icons=true&theme=tokyonight)
+###
+
+<p align="left"></p>
+
+###
+
+<h4 align="left">Backend:</h4>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="36" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="36" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="36" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="36" alt="supabase logo"  />
+</div>
+
+###
+
+<h4 align="left">Frontend:</h4>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="36" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="36" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="36" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="36" alt="css logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="36" alt="react logo"  />
+</div>
+
+###
+
+<h4 align="left">Test:</h4>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge" height="36" alt="pytest logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="36" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="36" alt="postman logo"  />
+</div>
+
+###
+
+<h4 align="left">Tools:</h4>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="36" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="36" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="36" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="36" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" height="36" alt="notion logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dulobodev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dulobodev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dulobodev.dulobodev&left_text=visitantes"  />
+</div>
+
+###
