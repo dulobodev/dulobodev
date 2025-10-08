@@ -114,9 +114,13 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="44" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/eduardo-lobo-dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="44" alt="linkedin logo" />
+  </a>
   <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="44" alt="github logo"  />
+  <a href="https://github.com/dulobodev" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="44" alt="github logo" />
+  </a>
 </div>
 
 ###
