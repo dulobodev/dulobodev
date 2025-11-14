@@ -6,7 +6,6 @@
 
 ###
 
-&nbsp;<br>
 
 <p align="left">💻 Atualmente estudo Desenvolvimento de Sistemas e me aprofundo em Python, com foco em automação, APIs seguras e arquitetura backend. Também tenho interesse em cibersegurança, infraestrutura de servidores, hardware e otimização de software.<br><br>🚀 Meu objetivo é me tornar um programador completo, com domínio técnico e visão ampla — capaz de construir sistemas escaláveis, seguros e inovadores. Gosto de entender como tudo funciona por dentro, desde o hardware até a lógica de alto nível.</p>
 
@@ -112,7 +111,6 @@
 
 ###
 
-&nbsp;<br>
 &nbsp;<br>
 
 ###
