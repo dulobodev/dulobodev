@@ -8,19 +8,41 @@
 
 <br clear="both">
 
-<p align="left">💻 Atualmente estudo Desenvolvimento de Sistemas e me aprofundo em Python. Também tenho interesse em cibersegurança, infraestrutura de servidores, hardware e otimização de software.<br><br>🚀 Meu objetivo é me tornar um programador completo, com domínio técnico e visão ampla — capaz de construir sistemas escaláveis, seguros e inovadores. Gosto de entender como tudo funciona por dentro, desde o hardware até a lógica de alto nível.</p>
+<p align="left">💻 Atualmente estudo Desenvolvimento de Sistemas e me aprofundo em Python, com foco em automação, APIs seguras e arquitetura backend. Também tenho interesse em cibersegurança, infraestrutura de servidores, hardware e otimização de software.<br><br>🚀 Meu objetivo é me tornar um programador completo, com domínio técnico e visão ampla — capaz de construir sistemas escaláveis, seguros e inovadores. Gosto de entender como tudo funciona por dentro, desde o hardware até a lógica de alto nível.</p>
 
 ###
 
-<p align="left"></p>
+<br clear="both">
+<br clear="both">
 
 ###
 
-<p align="left"></p>
+<h2 align="center">Projeto Atual:</h2>
 
 ###
 
-<p align="left"></p>
+<br clear="both">
+
+<h3 align="center">💰 Zank 💰</h3>
+
+###
+
+<br clear="both">
+
+<h4 align="center">Controle financeiro inteligente, direto do seu WhatsApp 💬</h4>
+
+
+<h4 align="center">Projeto backend para um assistente financeiro inteligente, que permite aos usuários registrar, consultar e gerenciar seus gastos e metas financeiras diretamente pelo WhatsApp.</h4>
+
+<div align="center">
+  <a href="https://github.com/dulobodev/Zank.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dulobodev&repo=Zank&theme=dracula" alt="Zank">
+  </a>
+</div>
+
+<br clear="both">
+<br clear="both">
+<br clear="both">
 
 ###
 
@@ -90,19 +112,10 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
+<br clear="both">
+<br clear="both">
+<br clear="both">
+<br clear="both">
 
 ###
 
