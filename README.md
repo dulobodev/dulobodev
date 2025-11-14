@@ -6,14 +6,14 @@
 
 ###
 
-<br clear="both">
+&nbsp;<br>
 
 <p align="left">💻 Atualmente estudo Desenvolvimento de Sistemas e me aprofundo em Python, com foco em automação, APIs seguras e arquitetura backend. Também tenho interesse em cibersegurança, infraestrutura de servidores, hardware e otimização de software.<br><br>🚀 Meu objetivo é me tornar um programador completo, com domínio técnico e visão ampla — capaz de construir sistemas escaláveis, seguros e inovadores. Gosto de entender como tudo funciona por dentro, desde o hardware até a lógica de alto nível.</p>
 
 ###
 
-<br clear="both">
-<br clear="both">
+&nbsp;<br>
+&nbsp;<br>
 
 ###
 
@@ -21,13 +21,13 @@
 
 ###
 
-<br clear="both">
+&nbsp;<br>
 
 <h3 align="center">💰 Zank 💰</h3>
 
 ###
 
-<br clear="both">
+&nbsp;<br>
 
 <h4 align="center">Controle financeiro inteligente, direto do seu WhatsApp 💬</h4>
 
@@ -40,9 +40,9 @@
   </a>
 </div>
 
-<br clear="both">
-<br clear="both">
-<br clear="both">
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
 
 ###
 
@@ -112,10 +112,8 @@
 
 ###
 
-<br clear="both">
-<br clear="both">
-<br clear="both">
-<br clear="both">
+&nbsp;<br>
+&nbsp;<br>
 
 ###
 
